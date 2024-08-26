@@ -1,7 +1,7 @@
 Sesli Kitap Uygulaması <br>
 Bu Python tabanlı uygulama, bir PDF dosyasındaki metni alır ve bu metni sese dönüştürerek bir sesli kitap oluşturur. Kullanıcılar basit bir grafik kullanıcı arayüzü (GUI) üzerinden PDF dosyasını seçebilir ve bu dosyanın içeriğini sesli dosya olarak kaydedebilir.
 
-Özellikler
+Özellikler <br>
 PDF Okuma: Seçilen PDF dosyasındaki metni çıkarır.
 Metni Sese Çevirme: Çıkarılan metni Google Text-to-Speech (gTTS) kullanarak sese dönüştürür.
 Sesli Kitap Oluşturma: Metni bir MP3 dosyasına kaydeder ve sesli kitap olarak kullanılabilir hale getirir.
